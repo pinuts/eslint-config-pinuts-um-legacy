@@ -8,7 +8,7 @@ Extends `@pinuts/eslint-config-pinuts-base` but with lesser strict rules.
 
 Install or update node package:
 ```
-sudo npm i @pinuts/eslint-config-pinuts-um-legacy
+cd; sudo npm i @pinuts/eslint-config-pinuts-um-legacy
 ```
 
 Include in your `cmsbs-conf/.eslintrc.js`:
