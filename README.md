@@ -1,6 +1,9 @@
 # @pinuts/eslint-config-pinuts-um-legacy
 Common Eslint config for our legacy (pre ES6) UM / CSE Javascript.
 
+Extends `@pinuts/eslint-config-pinuts-base` but with lesser strict rules.
+
+
 # Use in your project
 
 Install or update node package:
@@ -8,7 +11,7 @@ Install or update node package:
 sudo npm i @pinuts/eslint-config-pinuts-um-legacy
 ```
 
-Include in your `.eslintrc.js`:
+Include in your `cmsbs-conf/.eslintrc.js`:
 
 ```
 module.exports = {
