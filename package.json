@@ -12,7 +12,7 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "@pinuts/eslint-config-pinuts-base": "^0.9.5",
+        "@pinuts/eslint-config-pinuts-base": "^1.0.0",
         "eslint": "^5.15.3"
     }
 }
