@@ -1,6 +1,6 @@
 {
     "name": "@pinuts/eslint-config-pinuts-um-legacy",
-    "version": "0.9.2",
+    "version": "1.0.0",
     "license": "MIT",
     "private": false,
     "repository": "pinuts/eslint-config-pinuts-um-legacy",
@@ -12,7 +12,7 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "@pinuts/eslint-config-pinuts-base": "^0.9.5",
+        "@pinuts/eslint-config-pinuts-base": "^2.0.0",
         "eslint": "^5.15.3"
     }
 }
